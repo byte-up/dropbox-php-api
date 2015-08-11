@@ -1,0 +1,5 @@
+{
+    "require": {
+        "dropbox-php/dropbox-php": "1.*"
+    }
+}
